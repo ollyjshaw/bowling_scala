@@ -2,8 +2,8 @@ package bowling_logic
 
 import org.scalatest._
 
-
 class BowlingTest extends FlatSpec with Matchers {
+  
   "A game " should "be created" in {
   }
 
